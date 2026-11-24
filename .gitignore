@@ -1,0 +1,22 @@
+# Environment & Secrets
+.env
+.env.local
+
+# Python Virtual Environments
+venv/
+.venv/
+env/
+
+# Bytecode & Caches
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Local Sandbox & Logs
+sandbox_workspace/
+*.log
+*.sqlite
+*.db

@@ -9,6 +9,8 @@
 [![Docker](https://img.shields.io/badge/Docker-Ready-2496ED?logo=docker&logoColor=white)](docker-compose.yml)
 [![Architecture](https://img.shields.io/badge/Architecture-Deterministic%20Guardrails-purple)](#the-4-invariant-laws)
 
+> **🎁 Black Friday Launch Week (Nov 26 – Nov 30, 2026):** The complete **Kindle eBook** is **$0.00 (100% Free)** on Amazon worldwide! [**Grab your free copy here →**](https://www.amazon.com/dp/B0HS6F1HW6)
+
 <p align="center">
   <img src="figures/book_cover.jpg" alt="Autonomous AI Agents with Python by Pranay Bairagi" width="320" style="border-radius: 8px; box-shadow: 0 10px 30px rgba(0,0,0,0.5);" />
 </p>
@@ -56,7 +58,7 @@ Every module in this codebase adheres strictly to these four architectural invar
 
 ### 1. Clone & Setup Environment
 ```bash
-git clone https://github.com/pranaybairagi/autonomous-ai-agents.git
+git clone https://github.com/Pranaybairagi/autonomous-ai-agents.git
 cd autonomous-ai-agents
 
 # Create and activate virtual environment
@@ -152,8 +154,10 @@ Inside the book, you will find:
 - Comprehensive production readiness checklists and anti-pattern breakdowns for senior software architects.
 
 👉 **Get Your Copy on Amazon:**
-- **Kindle eBook Edition:** [Available on Amazon ($9.99)](https://www.amazon.com/dp/B0HS6F1HW6) (ASIN: `B0HS6F1HW6`)
-- **Paperback Physical Edition:** [Available on Amazon ($14.99 / $24.99)](https://www.amazon.com/dp/B0HS6F1HW6) (ISBN: `9798144273275`)
+- **Kindle eBook Edition:** [Available on Amazon ($9.99 / $0.00 Nov 26–30)](https://www.amazon.com/dp/B0HS6F1HW6) (ASIN: `B0HS6F1HW6`)
+- **Paperback Physical Edition:** [Available on Amazon ($24.99)](https://www.amazon.com/dp/B0HSQ4C3HX) (ASIN: `B0HSQ4C3HX` | ISBN: `9798144273275`)
+
+> 💬 **Found this repository useful?** Starring ⭐ the repo and leaving an honest review on Amazon helps independent engineering authors tremendously.
 
 ---
 
