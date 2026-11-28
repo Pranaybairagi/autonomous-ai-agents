@@ -9,7 +9,7 @@
 [![Docker](https://img.shields.io/badge/Docker-Ready-2496ED?logo=docker&logoColor=white)](docker-compose.yml)
 [![Architecture](https://img.shields.io/badge/Architecture-Deterministic%20Guardrails-purple)](#the-4-invariant-laws)
 
-> **🎁 Black Friday Launch Week (Nov 26 – Nov 30, 2026):** The complete **Kindle eBook** is **$0.00 (100% Free)** on Amazon worldwide! [**Grab your free copy here →**](https://www.amazon.com/dp/B0HS6F1HW6)
+> **🎁 Black Friday Launch Week (Nov 26 – Nov 30, 2026) — Currently `#2` in Python Computer Programming (Amazon US Free Kindle Store):** The complete **Kindle eBook** is **$0.00 US / £0.00 UK (100% Free)** on Amazon worldwide! [**Grab Free US Copy →**](https://www.amazon.com/dp/B0HS6F1HW6) | [**Amazon UK →**](https://www.amazon.co.uk/dp/B0HS6F1HW6)
 
 <p align="center">
   <img src="figures/book_cover.jpg" alt="Autonomous AI Agents with Python by Pranay Bairagi" width="320" style="border-radius: 8px; box-shadow: 0 10px 30px rgba(0,0,0,0.5);" />
@@ -154,10 +154,11 @@ Inside the book, you will find:
 - Comprehensive production readiness checklists and anti-pattern breakdowns for senior software architects.
 
 👉 **Get Your Copy on Amazon:**
-- **Kindle eBook Edition:** [Available on Amazon ($9.99 / $0.00 Nov 26–30)](https://www.amazon.com/dp/B0HS6F1HW6) (ASIN: `B0HS6F1HW6`)
+- **Kindle eBook Edition (US):** [Available on Amazon.com ($9.99 / $0.00 Nov 26–30)](https://www.amazon.com/dp/B0HS6F1HW6) (ASIN: `B0HS6F1HW6`)
+- **Kindle eBook Edition (UK):** [Available on Amazon.co.uk (£0.00 Nov 26–30)](https://www.amazon.co.uk/dp/B0HS6F1HW6)
 - **Paperback Physical Edition:** [Available on Amazon ($24.99)](https://www.amazon.com/dp/B0HSQ4C3HX) (ASIN: `B0HSQ4C3HX` | ISBN: `9798144273275`)
 
-> 💬 **Found this repository useful?** Starring ⭐ the repo and leaving an honest review on Amazon helps independent engineering authors tremendously.
+> ⭐ **Found this repository or book useful?** Starring this repo or leaving a quick **1-tap honest star rating / review on Amazon** ([**Rate on Amazon US →**](https://www.amazon.com/review/create-review?asin=B0HS6F1HW6) | [**Rate on Amazon UK →**](https://www.amazon.co.uk/review/create-review?asin=B0HS6F1HW6)) takes ~10 seconds and helps independent engineering authors tremendously.
 
 ---
 
